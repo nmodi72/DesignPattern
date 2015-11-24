@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21" started-at="2015-11-24T04:14:38Z" finished-at="2015-11-24T04:14:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21" started-at="2015-11-24T04:14:38Z" finished-at="2015-11-24T04:14:38Z">
+      <class name="test.main.designpattern.factory.FactoryPatternDemoTest">
+        <test-method status="PASS" signature="testFactoryPattern(java.lang.String)[pri:0, instance:test.main.designpattern.factory.FactoryPatternDemoTest@282ba1e]" name="testFactoryPattern" duration-ms="7" started-at="2015-11-23T23:14:38Z" data-provider="getData" finished-at="2015-11-23T23:14:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CIRCLE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFactoryPattern -->
+        <test-method status="PASS" signature="testFactoryPattern(java.lang.String)[pri:0, instance:test.main.designpattern.factory.FactoryPatternDemoTest@282ba1e]" name="testFactoryPattern" duration-ms="1" started-at="2015-11-23T23:14:38Z" data-provider="getData" finished-at="2015-11-23T23:14:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[RECTANGLE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFactoryPattern -->
+      </class> <!-- test.main.designpattern.factory.FactoryPatternDemoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
